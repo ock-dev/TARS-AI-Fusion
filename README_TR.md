@@ -73,8 +73,8 @@ CMD veya Terminali yönetici haklarıyla açıp şu komutları sırasıyla çal�
 | **Tars-Pro** | ~3.00 - 4.00 Cent | z-ai/glm-5.2 (MAX) + nex-agi/nex-n2-pro (MAX) + Gemini 3.5 Flash + Mimo-V2.5-Pro | DeepSeek V4 Pro |
 | **Tars-Ultra** | ~18.00 - 24.00 Cent| Claude Sonnet 5 (Normal) + z-ai/glm-5.2 (MAX) + Gemini 3.5 Flash | DeepSeek V4 Pro |
 
-*Not: Model kapasiteleri geliştikçe bu tabloların periyodik olarak güncellenmesi gerekmektedir.*
-*Not: Verilen maliyet değerleri ortalama değerlerdir, değişkenlik gösterebilir.*
+*Not: Model kapasiteleri geliştikçe bu tabloların periyodik olarak güncellenmesi gerekmektedir. Verilen maliyet değerleri ortalama değerlerdir, değişkenlik gösterebilir.*
+
 
 ### Adım 6: Sistemleri Birbirine Bağlama ve Erişime Açma
 1.  9router arayüzünden **Endpoint** kısmına giderek **API Key** ve **URL**'yi kopyalayın.
