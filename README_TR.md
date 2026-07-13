@@ -87,6 +87,8 @@ Aynı ağdaki diğer cihazlardan (Tablet/Telefon) erişmek için CMD/Terminal'e 
 
 ---
 
-### ⚙️ Bonus: Otomasyon (Tek Tıkla Başlatma)
+### ⚙️ Otomasyon (Tek Tıkla Başlatma)
+Sistemi her seferinde manuel başlatmak yerine, bu repoda bulunan betik dosyalarını kullanarak Open WebUI ve 9router'ı aynı anda çalıştırabilirsiniz.
 
-Sistemi her kullanmak istediğinizde Open WebUI ve 9router'ı ayrı ayrı başlatmak yerine, işletim sisteminize uygun olan aşağıdaki betik (script) dosyalarından birini indirerek tüm altyapıyı tek tıkla ayağa kaldırabilirsiniz.
+*   **Windows Kullanıcıları:** Repodaki `start.bat` dosyasına çift tıklamanız yeterlidir.
+*   **Linux Kullanıcıları:** Terminalde `./start.sh` komutunu çalıştırın (öncesinde `chmod +x start.sh` ile yetki verdiğinizden emin olun).
