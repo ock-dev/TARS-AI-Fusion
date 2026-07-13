@@ -86,11 +86,8 @@ To access the interface from other devices (Tablets/Phones) on the same network,
 
 ---
 
-### ⚙️ Bonus: Automation (One-Click Start)
+### ⚙️ Automation (One-Click Start)
+You can easily start both Open WebUI and 9router simultaneously using the script files included in this repository.
 
-Instead of launching Open WebUI and 9router separately every time you want to use the system, you can download one of the scripts below to boot up the entire infrastructure with a single click.
-
-
-start cmd /k "9router"
-
-echo Systems are active! You can navigate to http://localhost:8080 in your browser.
+*   **Windows Users:** Simply double-click the `start.bat` file.
+*   **Linux Users:** Run `./start.sh` in your terminal (make sure to grant execution permissions first with `chmod +x start.sh`).
