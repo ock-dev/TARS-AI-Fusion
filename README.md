@@ -73,7 +73,7 @@ Go to the **Combos** tab on 9router and click **Create Combo** to blend your mod
 | **Tars-Pro** | ~3.00 - 4.00 Cent | z-ai/glm-5.2 (MAX) + nex-agi/nex-n2-pro (MAX) + Gemini 3.5 Flash + Mimo-V2.5-Pro | DeepSeek V4 Pro |
 | **Tars-Ultra** | ~18.00 - 24.00 Cent| Claude Sonnet 5 (Normal) + z-ai/glm-5.2 (MAX) + Gemini 3.5 Flash | DeepSeek V4 Pro |
 
-*Note: These tables should be updated periodically as model capabilities evolve.*
+*Note: These tables should be updated periodically as model capabilities evolve. The provided cost figures are average values per question and may vary.*
 
 ### Step 6: Connecting the Systems and Exposing to Network
 1.  Go to the **Endpoint** section in the 9router UI and copy the **API Key** and **URL**.
