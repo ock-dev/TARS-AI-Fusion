@@ -70,7 +70,7 @@ CMD veya Terminali yönetici haklarıyla açıp şu komutları sırasıyla çal�
 | **Tars-Flash-Lite** | ~0.40 Cent | DeepSeek V4.1 Flash + Qwen3 Coder Flash + Mimo-V2.6-Pro | DeepSeek V4 Pro |
 | **Tars-Flash** | ~0.90 Cent | Gemini 3.5 Flash + Nex-N2-Pro + Mimo-V2.6-Pro + Qwen3 Coder Flash | DeepSeek V4 Pro |
 | **Tars** | ~1.40 Cent | Gemini 3.8 Flash + Nex-N2-Pro + Mimo-V2.5-Pro + Qwen3 Coder | DeepSeek V4 Pro |
-| **Tars-Pro** | ~3.00 - 4.00 Cent | z-ai/glm-5.2 (MAX) + nex-agi/nex-n2-pro (MAX) + Gemini 3.8 Flash + Mimo-V2.6-Pro | DeepSeek V4 Pro |
+| **Tars-Pro** | ~3.00 - 6.00 Cent | z-ai/glm-5.2 (MAX) + nex-agi/nex-n2-pro (MAX) + Gemini 3.8 Flash + Mimo-V2.6-Pro | DeepSeek V4 Pro |
 | **Tars-Ultra** | ~18.00 - 32.00 Cent| Claude Sonnet 5.5 (Normal) + z-ai/glm-5.2 (MAX) + Gemini 3.8 Flash | DeepSeek V4 Pro |
 
 *Not: Model kapasiteleri geliştikçe bu tabloların periyodik olarak güncellenmesi gerekmektedir. Verilen maliyet değerleri soru başına ortalama değerlerdir, değişkenlik gösterebilir.*
